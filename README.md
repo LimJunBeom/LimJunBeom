@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Junbeom-0A66C2?style=flat-square&logo=LinkedIn&logoColor=Blue"/>
+
+<a href="https://www.linkedin.com/in/junbeom-lim-738919235/" target="_blank"><img src="https://img.shields.io/badge/Junbeom-0A66C2?style=flat-square&logo=LinkedIn&logoColor=Blue"/>
 
 
 
