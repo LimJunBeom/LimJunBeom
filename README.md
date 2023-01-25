@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/junbeom-lim-738919235/" target="_blank"><img src="https://img.shields.io/badge/Junbeom-0A66C2?style=flat-square&logo=LinkedIn&logoColor=Blue"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJunBeom&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJunBeom&show_icons=true&theme=transparent)
 
 <!--
 **LimJunBeom/LimJunBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
