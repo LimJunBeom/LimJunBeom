@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Jay !!
 Welcome to my Github \
-I'm a DevOps engineer, and mainly work by managing the servers. \
+I'm a DevOps engineer, and mainly worked by managing the servers. \
 So I'm familiar with using Linux Commands, and among the languages, use C well. \
 I'm actively looking for a job :smile: 
 
