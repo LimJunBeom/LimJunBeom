@@ -1,5 +1,5 @@
-### Hi 👋 I'm Jay !!
-# 🌟 Welcome to Jay Lim's GitHub Blog!
+# Hi 👋 I'm Jay !!
+# 🌟 Welcome to Jay Lim's GitHub!
 
 Hi there! I'm **Jay Lim**, an aspiring **DevOps Engineer** and a dedicated problem solver passionate about automation, server management, and system reliability.
 
